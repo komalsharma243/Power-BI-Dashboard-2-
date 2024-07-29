@@ -1,5 +1,5 @@
 # Power-BI-Dashboard-2-
-HR Analytics Dashboard helps organisation to anakyze:
+HR Analytics Dashboard helps organisation to analyze:
 ▶ Identify key factors to reduce attrition 
 ▶ Improve the hiring process and employee experience 
 ▶ Enhance workforce productivity 
